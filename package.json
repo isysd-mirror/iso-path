@@ -1,6 +1,6 @@
 {
   "name": "iso-path",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Isomorphic runtime path library",
   "main": "path.node.js",
   "module": "path.js",

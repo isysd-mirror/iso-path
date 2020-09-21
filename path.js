@@ -32,7 +32,7 @@ import {
   CHAR_BACKWARD_SLASH,
   CHAR_COLON,
   CHAR_QUESTION_MARK
-} from '../iso-constants/constants.js'
+} from '../esm-constants/constants.js'
 const ERR_INVALID_ARG_TYPE = codes.ERR_INVALID_ARG_TYPE
 
 function assertPath (path) {
