@@ -1,6 +1,6 @@
 {
   "name": "iso-path",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Isomorphic runtime path library",
   "main": "path.node.js",
   "module": "path.js",
@@ -17,6 +17,6 @@
   "dependencies": {
     "esm": "../esm",
     "iso-errors": "../iso-errors",
-    "iso-constants": "../iso-constants"
+    "esm-constants": "../esm-constants"
   }
 }
